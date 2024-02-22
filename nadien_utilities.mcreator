@@ -1,0 +1,526 @@
+{
+  "mod_elements": [
+    {
+      "name": "Estrella",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "estrella",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/EstrellaItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/estrella.json"
+        ]
+      }
+    },
+    {
+      "name": "NadienUtilities",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nadien_utilities",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Patricio",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "patricio",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/patricio.json",
+          "src/main/java/net/mcreator/nadienutilities/item/PatricioItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Combustible",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combustible",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/combustible.json",
+          "src/main/java/net/mcreator/nadienutilities/item/CombustibleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Calavera",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calavera",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/CalaveraItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/calavera.json"
+        ]
+      }
+    },
+    {
+      "name": "Catalizador",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "catalizador",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/catalizador.json",
+          "src/main/java/net/mcreator/nadienutilities/item/CatalizadorItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BlackHole",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_hole",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/BlackHoleItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/black_hole.json"
+        ]
+      }
+    },
+    {
+      "name": "Alma",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alma",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/AlmaItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/alma.json"
+        ]
+      }
+    },
+    {
+      "name": "Antimateria",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antimateria",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/antimateria.json",
+          "src/main/java/net/mcreator/nadienutilities/item/AntimateriaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Brujula",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brujula",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/BrujulaItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/brujula.json"
+        ]
+      }
+    },
+    {
+      "name": "MiniPortal",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mini_portal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/MiniPortalItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/mini_portal.json"
+        ]
+      }
+    },
+    {
+      "name": "MiniReactor",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mini_reactor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/MiniReactorItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/mini_reactor.json"
+        ]
+      }
+    },
+    {
+      "name": "Planos",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planos",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/planos.json",
+          "src/main/java/net/mcreator/nadienutilities/item/PlanosItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Semilla",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "semilla",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/SemillaItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/semilla.json"
+        ]
+      }
+    },
+    {
+      "name": "PepitaDeEstrella",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pepita_de_estrella",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/PepitaDeEstrellaItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/pepita_de_estrella.json"
+        ]
+      }
+    },
+    {
+      "name": "Transmisor",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "transmisor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/transmisor.json",
+          "src/main/java/net/mcreator/nadienutilities/item/TransmisorItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Munequito",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "munequito",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/munequito.json",
+          "src/main/java/net/mcreator/nadienutilities/item/MunequitoItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Acero",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acero",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/AceroItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/acero.json"
+        ]
+      }
+    },
+    {
+      "name": "OreDeAcero",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ore_de_acero",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/world/features/ores/OreDeAceroFeature.java",
+          "src/main/resources/assets/nadien_utilities/models/block/ore_de_acero.json",
+          "src/main/resources/assets/nadien_utilities/models/item/ore_de_acero.json",
+          "src/main/java/net/mcreator/nadienutilities/block/OreDeAceroBlock.java",
+          "src/main/resources/assets/nadien_utilities/blockstates/ore_de_acero.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderpearlBlock",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enderpearl_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/block/EnderpearlBlockBlock.java",
+          "src/main/resources/assets/nadien_utilities/models/block/enderpearl_block.json",
+          "src/main/resources/assets/nadien_utilities/blockstates/enderpearl_block.json",
+          "src/main/resources/assets/nadien_utilities/models/item/enderpearl_block.json"
+        ]
+      }
+    },
+    {
+      "name": "BLoqueVerde",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "b_loque_verde",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/nadien_utilities/recipes/enderpearl_block.json"
+        ]
+      }
+    },
+    {
+      "name": "BloqueDeTitanio",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloque_de_titanio",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/block/BloqueDeTitanioBlock.java",
+          "src/main/resources/assets/nadien_utilities/models/item/bloque_de_titanio.json",
+          "src/main/resources/assets/nadien_utilities/blockstates/bloque_de_titanio.json",
+          "src/main/resources/assets/nadien_utilities/models/block/bloque_de_titanio.json"
+        ]
+      }
+    },
+    {
+      "name": "RGBBLOCK",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rgbblock",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/block/RGBBLOCKBlock.java",
+          "src/main/resources/assets/nadien_utilities/models/block/rgbblock.json",
+          "src/main/resources/assets/nadien_utilities/models/item/rgbblock.json",
+          "src/main/resources/assets/nadien_utilities/blockstates/rgbblock.json"
+        ]
+      }
+    },
+    {
+      "name": "RgbBlock1",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rgb_block_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/nadien_utilities/recipes/rgb_block.json"
+        ]
+      }
+    },
+    {
+      "name": "Secretito",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "secretito",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/secretito.json",
+          "src/main/java/net/mcreator/nadienutilities/item/SecretitoItem.java",
+          "src/main/java/net/mcreator/nadienutilities/item/inventory/SecretitoInventoryCapability.java"
+        ]
+      }
+    },
+    {
+      "name": "Quesera",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quesera",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/client/gui/QueseraScreen.java",
+          "src/main/java/net/mcreator/nadienutilities/world/inventory/QueseraMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "IronCoin",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_coin",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/IronCoinItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/iron_coin.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldCoin",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_coin",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/GoldCoinItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/gold_coin.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldCoin",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_coin",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nadien_utilities/models/item/emerald_coin.json",
+          "src/main/java/net/mcreator/nadienutilities/item/EmeraldCoinItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteCoin",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_coin",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/nadienutilities/item/NetheriteCoinItem.java",
+          "src/main/resources/assets/nadien_utilities/models/item/netherite_coin.json"
+        ]
+      }
+    },
+    {
+      "name": "Steel",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/nadien_utilities/recipes/steel.json"
+        ]
+      }
+    },
+    {
+      "name": "Steel2",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/nadien_utilities/recipes/steel_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Bienvenido",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bienvenido",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/nadien_utilities/advancements/bienvenido.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.nadien_utilities.pepita_de_estrella": "Pepita De Estrella",
+      "item.nadien_utilities.estrella": "Estrella",
+      "item.nadien_utilities.acero": "Acero",
+      "block.nadien_utilities.rgbblock": "RGBBLOCK",
+      "gui.nadien_utilities.quesera.label_toca_pa_alla_bobo": "Toca Pa Alla Bobo",
+      "item.nadien_utilities.gold_coin": "Gold Coin",
+      "advancements.bienvenido.descr": "lo obtienens entrando al servidor",
+      "gui.nadien_utilities.quesera.label_que_tendre": "Que Mira Bobo",
+      "item.nadien_utilities.emerald_coin": "Emerald Coin",
+      "item.nadien_utilities.iron_coin": "Iron Coin",
+      "item.nadien_utilities.alma": "Alma",
+      "item.nadien_utilities.munequito": "Munequito",
+      "item.nadien_utilities.black_hole": "Black Hole",
+      "item.nadien_utilities.mini_reactor": "Mini Reactor",
+      "item.nadien_utilities.transmisor": "Transmisor",
+      "item.nadien_utilities.planos": "Planos",
+      "item.nadien_utilities.semilla": "Semilla",
+      "advancements.bienvenido.title": "Bienvenido",
+      "item.nadien_utilities.catalizador": "Catalizador",
+      "block.nadien_utilities.bloque_de_titanio": "Bloque De Titanio",
+      "item.nadien_utilities.calavera": "Calavera",
+      "itemGroup.tabnadien_utilities": "Nadien Utilities",
+      "item.nadien_utilities.netherite_coin": "Netherite Coin",
+      "block.nadien_utilities.ore_de_acero": "Ore De Acero",
+      "item.nadien_utilities.antimateria": "Antimateria",
+      "item.nadien_utilities.combustible": "Combustible",
+      "item.nadien_utilities.secretito": "Easter EGG",
+      "block.nadien_utilities.enderpearl_block": "Enderpearl Block",
+      "item.nadien_utilities.brujula": "Brujula",
+      "item.nadien_utilities.mini_portal": "Mini Portal",
+      "item.nadien_utilities.patricio": "Patricio"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nadien_utilities",
+    "modName": "Nadien Utilities",
+    "version": "5.0",
+    "author": "SrNadien,",
+    "websiteURL": "https://twitter.com/KingNadien",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "star",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "SrNadien",
+    "modElementsPackage": "net.mcreator.nadienutilities",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
